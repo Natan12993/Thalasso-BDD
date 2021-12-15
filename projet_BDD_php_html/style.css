@@ -1,0 +1,137 @@
+nav ul{
+  font: italic 1.2em "Fira Sans", serif;
+  padding: 0px;
+  margin: 0px;
+  list-style-type: none;
+  background-color: #333333;
+}
+
+nav li{
+  display: inline-block;
+  width: 100px;
+  height: 40px;
+  margin: 0px;
+  padding: 0px;
+  border-right: 0px solid #CCCCCC;
+  text-align: center;
+  line-height: 40px;
+}
+
+nav li:hover{
+  background-color: #3388BB;
+}
+
+nav li a{
+  display: block;
+  text-decoration: none;
+  color:#FFFFFF; 
+}
+
+h1{
+  font: italic 2em "Fira Sans", serif,bold;
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+  color: #FF0000;
+
+}
+
+h3{
+  color: #FF0000;
+  text-align: left;
+  font-size: 0.8em;
+}
+
+h4{
+  font: italic 2em "Fira Sans", serif,bold;
+  text-align: center;
+  text-decoration: underline black;
+}
+
+h5{
+  font: italic 1.6em "Fira Sans", serif,bold;
+  text-align: center;
+  text-decoration: underline black;
+}
+
+h6{
+  font: italic 1.1em "Fira Sans", serif,bold;
+  text-align: center;
+}
+
+.otherbutton{
+  font: italic "Fira Sans", serif;
+  display: inline-block;
+  position: right;
+}
+
+.adminlog{
+  font: italic 1.2em "Fira Sans", serif;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.adminlogsub{
+  font: italic 1.2em "Fira Sans", serif;
+  display: block;
+  margin: auto;
+}
+
+.image_home_page{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 75px;
+  border: outset 5px;
+}
+
+.image_prestation{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: outset 2px;
+
+}
+
+table {
+border:3px solid #6495ed;
+border-collapse:collapse;
+width:90%;
+margin:auto;
+}
+thead {
+background-color:#D0E3FA;
+border:1px solid #6495ed;
+}
+tbody {
+background-color:#FFFFFF;
+border:1px solid #6495ed;
+}
+th {
+font-family:monospace;
+border:1px dotted #6495ed;
+padding:5px;
+background-color:#EFF6FF;
+width:25%;
+}
+td {
+font-family:sans-serif;
+font-size:80%;
+border:1px solid #6495ed;
+padding:5px;
+text-align:left;
+}
+
+.listderoul{
+  display: inline-block;
+  width: 150px;
+  height: 30px;
+  margin-top: 20px;
+  margin-left: 5px;
+  border-right: 0px solid #CCCCCC;
+  line-height: 40px;
+}
+
